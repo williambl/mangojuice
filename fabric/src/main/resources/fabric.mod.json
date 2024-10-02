@@ -8,15 +8,15 @@
         "${mod_author}"
     ],
     "contact": {
-        "homepage": "https://fabricmc.net/",
-        "sources": "https://github.com/FabricMC/fabric-example-mod"
+        "homepage": "https://willbl.dev",
+        "sources": "https://github.com/williambl/mangojuice"
     },
     "license": "${license}",
     "icon": "${mod_id}.png",
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+            "com.williambl.mangojuice.fabric.MangojuiceFabric"
         ]
     },
     "mixins": [
