@@ -1,6 +1,6 @@
 package com.williambl.mangojuice.fabric.impl.platform;
 
-import com.williambl.mangojuice.platform.services.IPlatformHelper;
+import com.williambl.mangojuice.impl.platform.services.IPlatformHelper;
 import net.fabricmc.loader.api.FabricLoader;
 
 public class FabricPlatformHelper implements IPlatformHelper {

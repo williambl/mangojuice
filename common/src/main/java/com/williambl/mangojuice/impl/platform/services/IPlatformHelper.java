@@ -1,4 +1,4 @@
-package com.williambl.mangojuice.platform.services;
+package com.williambl.mangojuice.impl.platform.services;
 
 public interface IPlatformHelper {
 
