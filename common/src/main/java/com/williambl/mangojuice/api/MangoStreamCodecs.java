@@ -15,6 +15,7 @@ import java.util.function.Function;
 
 /**
  * Utilities for making {@link StreamCodec StreamCodecs}.
+ * @see MangoCodecs
  */
 public class MangoStreamCodecs {
     /**
